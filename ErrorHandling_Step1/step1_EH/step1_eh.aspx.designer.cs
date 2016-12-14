@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ErrorHandling_Step1 {
+namespace step1_EH {
     
     
-    public partial class WebForm1 {
+    public partial class step1_eh {
         
         /// <summary>
         /// form1 control.
@@ -22,39 +22,39 @@ namespace ErrorHandling_Step1 {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// TxtMiles control.
+        /// txtMiles control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtMiles;
+        protected global::System.Web.UI.WebControls.TextBox txtMiles;
         
         /// <summary>
-        /// TxtGallons control.
+        /// txtGalons control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtGallons;
+        protected global::System.Web.UI.WebControls.TextBox txtGalons;
         
         /// <summary>
-        /// TxtEfficiency control.
+        /// txtEfficiency control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtEfficiency;
+        protected global::System.Web.UI.WebControls.TextBox txtEfficiency;
         
         /// <summary>
-        /// btnCalculate control.
+        /// txtCalculate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnCalculate;
+        protected global::System.Web.UI.WebControls.Button txtCalculate;
     }
 }

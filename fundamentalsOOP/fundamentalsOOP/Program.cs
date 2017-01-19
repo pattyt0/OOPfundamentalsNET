@@ -27,6 +27,7 @@ namespace fundamentalsOOP
             Console.WriteLine("c2 money default : " + c2.Money);
 
             Console.WriteLine("c2 to string : "+ c2.ToString());
+			Console.WriteLine("c2 to string : "+ c2.ToString());
 
             Console.ReadLine();
         }
